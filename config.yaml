@@ -13,6 +13,11 @@ author:
 
 menu:
   main: 
+    - identifier: blog 
+      name: Blog
+      url: /blog 
+      weight: 50
+
 
     - identifier: curriculum 
       name: Curriculum
