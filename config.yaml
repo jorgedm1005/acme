@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://localhost/acme"
 languageCode: es-es 
 title: Acme Corporation 
 theme: Eclectic 
