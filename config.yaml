@@ -1,7 +1,7 @@
-baseURL: "https://localhost/acme"
+baseURL: "https://localhost"
 languageCode: es-es 
 title: Acme Corporation 
-theme: Eclectic 
+theme: Eclectic
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
