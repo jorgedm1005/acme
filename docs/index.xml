@@ -1,15 +1,16 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Acme Corporation</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Acme Corporation</description>
+    <title>Acme CORP on Acme Corporation</title>
+    <link>https://localhost/</link>
+    <description>Recent content in Acme CORP on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Mon, 26 Sep 2022 09:11:49 +0200</lastBuildDate>
     
-        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
