@@ -2,7 +2,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme CORP on Acme Corporation</title>
-    <link>https://localhost/</link>
+    <link>/acme/</link>
     <description>Recent content in Acme CORP on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
@@ -10,7 +10,7 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Mon, 26 Sep 2022 09:11:49 +0200</lastBuildDate>
     
-        <atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
