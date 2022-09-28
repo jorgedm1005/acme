@@ -5,9 +5,37 @@
     <loc>/acme/</loc>
     <lastmod>2022-09-26T09:11:49+02:00</lastmod>
   </url><url>
-    <loc>/acme/categories/</loc>
+    <loc>/acme/blog/blogloscos/</loc>
+    <lastmod>2022-09-22T14:00:26+02:00</lastmod>
+  </url><url>
+    <loc>/acme/blog/</loc>
+    <lastmod>2022-09-22T14:00:26+02:00</lastmod>
+  </url><url>
+    <loc>/acme/blog/blogmilan/</loc>
+    <lastmod>2022-09-22T14:00:20+02:00</lastmod>
+  </url><url>
+    <loc>/acme/blog/blogpirineo/</loc>
+    <lastmod>2022-09-22T14:00:09+02:00</lastmod>
   </url><url>
     <loc>/acme/viajes/</loc>
+    <lastmod>2022-09-22T13:46:47+02:00</lastmod>
+  </url><url>
+    <loc>/acme/viajes/loscos/</loc>
+    <lastmod>2022-09-22T13:46:47+02:00</lastmod>
+  </url><url>
+    <loc>/acme/viajes/milan/</loc>
+    <lastmod>2022-09-21T10:07:00+02:00</lastmod>
+  </url><url>
+    <loc>/acme/viajes/pirineo/</loc>
+    <lastmod>2022-09-21T08:55:24+02:00</lastmod>
+  </url><url>
+    <loc>/acme/about/</loc>
+  </url><url>
+    <loc>/acme/categories/</loc>
+  </url><url>
+    <loc>/acme/contacto/</loc>
+  </url><url>
+    <loc>/acme/curriculum/</loc>
   </url><url>
     <loc>/acme/tags/</loc>
   </url>

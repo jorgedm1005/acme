@@ -13,5 +13,86 @@
         <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+<title>Blog Loscos</title>
+<link>/acme/blog/blogloscos/</link>
+<pubDate>Thu, 22 Sep 2022 14:00:26 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/blog/blogloscos/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Blog Milan</title>
+<link>/acme/blog/blogmilan/</link>
+<pubDate>Thu, 22 Sep 2022 14:00:20 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/blog/blogmilan/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Blog Pirineo</title>
+<link>/acme/blog/blogpirineo/</link>
+<pubDate>Thu, 22 Sep 2022 14:00:09 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/blog/blogpirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Loscos</title>
+<link>/acme/viajes/loscos/</link>
+<pubDate>Thu, 22 Sep 2022 13:46:47 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/loscos/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Milan</title>
+<link>/acme/viajes/milan/</link>
+<pubDate>Wed, 21 Sep 2022 10:07:00 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/milan/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Pirineo</title>
+<link>/acme/viajes/pirineo/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:24 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>A cerca de nosotros...</title>
+<link>/acme/about/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contacto</title>
+<link>/acme/contacto/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/contacto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>/acme/curriculum/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
   </channel>
 </rss>

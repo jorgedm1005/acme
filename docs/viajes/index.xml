@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indice viajes on Acme Corporation</title>
+    <link>/acme/viajes/</link>
+    <description>Recent content in Indice viajes on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Thu, 22 Sep 2022 13:46:47 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loscos</title>
+      <link>/acme/viajes/loscos/</link>
+      <pubDate>Thu, 22 Sep 2022 13:46:47 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/loscos/</guid>
+      <description>Loscos Loscos es un municipio y población de España, perteneciente a la Comarca del Jiloca, al noroeste de la provincia de Teruel, comunidad autónoma de Aragón, a 119 km de Teruel. Tiene un área de 71,88 km² con una población de 189 habitantes (INE 2008) y una densidad de 2,63 hab/km². El código postal es 44493.</description>
+    </item>
+    
+    <item>
+      <title>Milan</title>
+      <link>/acme/viajes/milan/</link>
+      <pubDate>Wed, 21 Sep 2022 10:07:00 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/milan/</guid>
+      <description>Mi viaje Milan Me fui a Milan a er a una amiga de Erasmus. Milán es una metrópolis de la región de Lombardía en el norte de Italia y es una capital mundial de la moda y el diseño. En ella se encuentra la bolsa de valores nacional y es un núcleo financiero también conocido por sus exclusivos restaurantes y tiendas. La catedral gótica de Milán y el convento Santa Maria delle Grazie, que alberga el mural &amp;ldquo;La última cena&amp;rdquo; de Leonardo da Vinci, son testigos de siglos de arte y cultura.</description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>/acme/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:24 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+      <description>Mi viaje al pirineo A los Pirineos le siguen el ránking mundial de destinos montañosos increíbles el Atlas africano, los Andes latinoamericanos y los Alpes europeos. Así lo sentencia Backs, la prestigiosa firma especializada en material de montaña de todo tipo, que ha elaborado una lista teniendo en cuenta factores como el número de picos y senderos, la cantidad de búsquedas realizadas en Google entre noviembre de 2020 y diciembre de 2021, el precio medio y la calidad de los alojamientos disponibles, la presencia en redes sociales y la climatología.</description>
+    </item>
+    
+  </channel>
+</rss>

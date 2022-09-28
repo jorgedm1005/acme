@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Acme Corporation</title>
+    <link>/acme/blog/</link>
+    <description>Recent content in Blogs on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Thu, 22 Sep 2022 14:00:26 +0200</lastBuildDate><atom:link href="/acme/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Loscos</title>
+      <link>/acme/blog/blogloscos/</link>
+      <pubDate>Thu, 22 Sep 2022 14:00:26 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/blog/blogloscos/</guid>
+      <description>Loscos Como todos los veranos para el mes de agosto voy a mi pueblo a celebrar las fiestas patronales en honor a San Roque. Esta año tenían un sabor especial, ya que las últimas fiestas se celebraron hace 6 años.
+El ambiente durante todo el mes era espectacular, todo el mundo contento y con ganas de celebrar lo que se venía por delante.
+Las fiestas no defraudaron a nadie, todas las personas del pueblo disfrutaron de esta maravillosa semana de fiesta, cenas, eventos, reuniones&amp;hellip; Estamos todos deseando que lleguen las del año que viene ya.</description>
+    </item>
+    
+    <item>
+      <title>Blog Milan</title>
+      <link>/acme/blog/blogmilan/</link>
+      <pubDate>Thu, 22 Sep 2022 14:00:20 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/blog/blogmilan/</guid>
+      <description>Milan Si bien es cierto que con un día en Milán puedes conocer los principales puntos de interés, siempre recomendamos pasar unos 2-3 días para que te de tiempo a encontrarle el puntillo a la ciudad. Además, se trata de una base perfecta para hacer alguna que otra escapada.
+Ojo al usar el transporte! El billete lo puedes comprar en quioscos o estaciones, pero para que sea válido tienes que convalidarlo en las máquinas.</description>
+    </item>
+    
+    <item>
+      <title>Blog Pirineo</title>
+      <link>/acme/blog/blogpirineo/</link>
+      <pubDate>Thu, 22 Sep 2022 14:00:09 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/blog/blogpirineo/</guid>
+      <description>Pirineo Un viaje al Pirineo puede ser tan diferente como gustos y personas existen. Para conocerlo un poco, te propongo un paseo por varios pueblecitos que destacan por su patrimonio cultural, histórico y arquitectónico. Son perfectos para visitarlos, pernoctar y hacernos una idea de la forma de vida del Pirineo aragonés.
+Si lo que te gusta es estar en contacto con la naturaleza, ¡has venido al lugar indicado! El Pirineo es el destino perfecto para desconectar de los atascos, la contaminación y el ruido de las grandes ciudades.</description>
+    </item>
+    
+  </channel>
+</rss>
