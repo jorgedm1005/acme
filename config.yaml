@@ -20,7 +20,7 @@ menu:
 
     - identifier: tv
       name: Canales
-      url: /television/canales
+      url: /canales/canales
       weight: 40
 
     - identifier: blog 
