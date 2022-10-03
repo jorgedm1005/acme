@@ -1,7 +1,9 @@
 ---
 title: "Milan"
 date: 2022-09-21T10:07:00+02:00
-draft: true
+draft: false
+lon: 9.1895100
+lat: 45.4642700
 ---
 
 ## Mi viaje Milan

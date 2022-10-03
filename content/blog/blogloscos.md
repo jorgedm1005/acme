@@ -1,7 +1,7 @@
 ---
 title: "Blog Loscos"
 date: 2022-09-22T14:00:26+02:00
-draft: true
+draft: false
 ---
 
 

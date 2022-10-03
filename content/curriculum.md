@@ -1,7 +1,7 @@
 ---
 title: "Curriculum"
 date: 2022-09-22W13:10:00+02:00
-draft: true
+draft: false
 ---
 
 ## Me llamo Jorge

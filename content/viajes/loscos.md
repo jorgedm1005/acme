@@ -1,7 +1,10 @@
 ---
 title: "Loscos"
 date: 2022-09-22T13:46:47+02:00
-draft: true
+draft: false
+lon: -1.0436518
+lat: 41.0819348
+mensaje: '<h3>El <strong>mejor</strong> pueblo</h3>'
 ---
 
 

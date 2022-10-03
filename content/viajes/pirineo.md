@@ -1,7 +1,9 @@
 ---
 title: "Pirineo"
 date: 2022-09-21T08:55:24+02:00
-draft: true
+draft: false
+lon: -0.158473
+lat: 42.695672
 ---
 
 ## Mi viaje al pirineo

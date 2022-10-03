@@ -1,7 +1,7 @@
 ---
 title: "Blog Pirineo"
 date: 2022-09-22T14:00:09+02:00
-draft: true
+draft: false
 ---
 
 ## Pirineo

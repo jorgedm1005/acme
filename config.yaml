@@ -1,7 +1,7 @@
-baseURL: "/acme"
+baseURL: "/"
 languageCode: es-es 
 title: Acme Corporation 
-theme: Eclectic
+theme: basico
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -13,6 +13,11 @@ author:
 
 menu:
   main: 
+    - identifier: tv
+      name: Canales
+      url: /television/canales
+      weight: 40
+
     - identifier: blog 
       name: Blog
       url: /blog 
@@ -22,7 +27,7 @@ menu:
     - identifier: curriculum 
       name: Curriculum
       url: /curriculum 
-      weight: 50
+      weight: 60
 
     - identifier: about 
       name: Acerca de 
