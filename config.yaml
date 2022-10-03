@@ -13,6 +13,11 @@ author:
 
 menu:
   main: 
+    - identifier: peliculas
+      name: Peliculas
+      url: /peliculas/mas-valoradas
+      weight: 20
+
     - identifier: tv
       name: Canales
       url: /television/canales
