@@ -13,6 +13,11 @@ author:
 
 menu:
   main: 
+    - identifier: centros
+      name: Centros
+      url: /centros
+      weight: 15
+
     - identifier: peliculas
       name: Peliculas
       url: /peliculas/mas-valoradas

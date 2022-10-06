@@ -14,4 +14,4 @@ Las fiestas no defraudaron a nadie, todas las personas del pueblo disfrutaron de
 
 ¡VIVA LOSCOS!
 
-![Loscos](https://www.turismodearagon.com/wp-content/uploads/2014/04/loscos_-_jiloca.jpg)
+![Loscos](/loscos.jpg)
